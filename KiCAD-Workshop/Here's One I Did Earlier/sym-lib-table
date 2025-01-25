@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Symbols")(type "KiCad")(uri "/home/daniel/github/Tuesday-Sessions/KiCAD-Workshop/Symbols.kicad_sym")(options "")(descr ""))
+)
